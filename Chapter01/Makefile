@@ -13,6 +13,6 @@ black:
 	black -l 79 *.py
 
 setup:
-	$(VIRTUAL_ENV)/bin/pip install -r requirements.txt
+	pip install -r requirements.txt
 
 .PHONY: typehint test lint checklist black

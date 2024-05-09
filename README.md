@@ -13,16 +13,16 @@ This is the code repository for [Clean Code in Python](https://www.packtpub.com/
 Python is currently used in many different areas such as software construction, systems administration, and data processing. In all of these areas, experienced professionals can find examples of inefficiency, problems, and other perils, as a result of bad code. After reading this book, readers will understand these problems, and more importantly, how to correct them.
 
 This book covers the following exciting features:
-Set up tools to effectively work in a development environment 
-Explore how the magic methods of Python can help us write better code 
-Examine the traits of Python to create advanced object-oriented design 
-Understand removal of duplicated code using decorators and descriptors 
-Effectively refactor code with the help of unit tests 
-Learn to implement the SOLID principles in Python 
+Set up tools to effectively work in a development environment
+Explore how the magic methods of Python can help us write better code
+Examine the traits of Python to create advanced object-oriented design
+Understand removal of duplicated code using decorators and descriptors
+Effectively refactor code with the help of unit tests
+Learn to implement the SOLID principles in Python
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788835832) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png"
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
